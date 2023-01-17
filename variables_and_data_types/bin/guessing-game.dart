@@ -12,7 +12,7 @@ void main() {
     var number = random.nextInt(100) +1;
 
     //guess counter
-    var guesses = 0;
+    var guesses = 1;
 
     print("Welcome. Try to guess the computer's number. \nEnter 0 to quit.");
 
